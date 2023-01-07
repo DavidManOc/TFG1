@@ -1,6 +1,7 @@
 # TFG1
 
 Trabajo fin de curso David Manzanero (2º DAM 2023)
+
 //-------------------------------------------------------------------------------------
 
 Introducción:
@@ -45,7 +46,12 @@ Desarrollo del proyecto:
     
   - Diagrama de clases:
       *Clase Base de Datos -> 
+      
       *Clase Usuario ->
+      
       *Clase Historial ->
+      
       *Clase Comparación ->
+      
       *Clase Búsqueda -> 
+
